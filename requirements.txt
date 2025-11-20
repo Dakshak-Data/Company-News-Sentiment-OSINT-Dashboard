@@ -1,0 +1,16 @@
+streamlit
+pandas
+requests
+beautifulsoup4
+lxml
+nltk
+python-dotenv
+
+selenium
+webdriver-manager
+
+# Optional but recommended for stability
+certifi
+urllib3
+idna
+charset-normalizer
